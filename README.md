@@ -84,8 +84,6 @@ If you remix any of this into something beautiful or useful for ecological good,
 
 ---
 
-*Pine Hollow, Tennessee — Listening since [whenever you started]*
-
 
 
 
