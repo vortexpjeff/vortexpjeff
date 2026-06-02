@@ -87,10 +87,13 @@ If you remix any of this into something beautiful or useful for ecological good,
 *Pine Hollow, Tennessee — Listening since [whenever you started]*
 
 
+
+
 ## 🌲 Pine Hollow Soundscape
 
-**Today:** 454 detections, 14 species
+<img src="pine-hollow-badge.svg" alt="Pine Hollow Soundscape" width="320">
+
 **Top:** Eastern Phoebe (222), Carolina Wren (161), Louisiana Waterthrush (35)
 **Weather:** ☀️ 80°F, 50%, Sunny
 
-*Updated Jun 02, 2026 at 14:21* — [Full dashboard](https://vortexpjeff.github.io/pine-hollow-dashboard/)
+*Updated Jun 02, 2026 at 14:24* — [Full dashboard](https://vortexpjeff.github.io/pine-hollow-dashboard/)
