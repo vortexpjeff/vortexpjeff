@@ -1,13 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="120" viewBox="0 0 340 120">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f1a12"/>
-      <stop offset="100%" style="stop-color:#14291e"/>
-    </linearGradient>
-  </defs>
-  <rect width="340" height="96" rx="6" fill="url(#bg)" stroke="#1e3a2a" stroke-width="1"/>
+  <rect width="340" height="120" rx="6" fill="#0f1a12" stroke="#1e3a2a" stroke-width="1"/>
   <text x="12" y="16" font-family="monospace" font-size="7" fill="#4a7a5a" letter-spacing="1">PINE HOLLOW SOUNDSCAPE</text>
-  <text x="272" y="16" font-family="monospace" font-size="7" fill="#3a5a48">☀️ 80°</text>
+  <text x="280" y="16" font-family="monospace" font-size="7" fill="#3a5a48">☀️ 80°</text>
   <text x="12" y="36" font-family="monospace" font-size="15" fill="#6fcf8e" font-weight="bold">454</text>
   <text x="12" y="50" font-family="monospace" font-size="7" fill="#4a7a5a">DETECTIONS</text>
   <text x="90" y="36" font-family="monospace" font-size="15" fill="#8ae8a0" font-weight="bold">14</text>
@@ -17,7 +11,7 @@
   <line x1="12" y1="60" x2="328" y2="60" stroke="#1e3a2a" stroke-width="1"/>
   <text x="12" y="72" font-family="monospace" font-size="7" fill="#4a7a5a">JUST NOW</text>
   <text x="12" y="84" font-family="monospace" font-size="9" fill="#c8d6c0">13:50</text>
-  <text x="60" y="84" font-family="monospace" font-size="9" fill="#6a8f7a">Louisiana Waterthr</text>
+  <text x="60" y="84" font-family="monospace" font-size="9" fill="#6a8f7a">Louisiana Watert</text>
   <text x="230" y="84" font-family="monospace" font-size="9" fill="#6fcf8e">88%</text>
   <rect x="260" y="78" width="88" height="6" rx="2" fill="#6fcf8e" opacity="0.6"/>
   <text x="12" y="96" font-family="monospace" font-size="9" fill="#c8d6c0">13:49</text>
