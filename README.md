@@ -83,28 +83,3 @@ Take what sparks joy or utility, but please respect licenses (especially non-com
 If you remix any of this into something beautiful or useful for ecological good, drop me a line on X. Let's keep the relational geometry flowing. 🌌🌀
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🌲 Pine Hollow Soundscape
-
-<img src="pine-hollow-badge.svg" alt="Pine Hollow Soundscape" width="680">
-
-[Full dashboard →](https://vortexpjeff.github.io/pine-hollow-dashboard/) · Updated Jun 02, 2026 at 15:16
