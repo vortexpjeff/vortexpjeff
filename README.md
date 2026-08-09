@@ -1,1 +1,1 @@
-# 🌌 JVtx (vortexpjeff) — The Vortex Project
+# 🌌 JVtx (vortexpjeff) thevortexproject.org huggingface.co/TheVortexProject bioacoustics
